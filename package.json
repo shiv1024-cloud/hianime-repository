@@ -1,7 +1,7 @@
 {
   "name": "@hianime-tizenbrew/mod",
   "appName": "HiAnime Remote Controls",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Remote video controls for hianime.at on TizenBrew.",
   "packageType": "mods",
   "websiteURL": "https://hianime.at",
